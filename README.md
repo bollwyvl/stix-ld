@@ -4,4 +4,4 @@ See the [notebooks][].
 
 [JSON-LD]: http://json-ld.org/
 [STIX]: http://stixproject.github.io/
-[notebooks]: http://nbviewer.org/github/bollwyvl/stix-ld/notebooks
+[notebooks]: http://nbviewer.ipython.org/github/bollwyvl/stix-ld/tree/master/
