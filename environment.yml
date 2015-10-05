@@ -23,6 +23,7 @@ dependencies:
 - ptyprocess=0.5=py35_0
 - pygments=2.0.2=py35_0
 - python=3.5.0=0
+- pyyaml=3.11=py35_1
 - pyzmq=14.7.0=py35_0
 - readline=6.2=2
 - setuptools=18.3.2=py35_0
@@ -42,5 +43,6 @@ dependencies:
   - jupyter-client==4.0.0
   - jupyter-core==4.0.6
   - pyld==0.6.8
+  - rdfclosure==5
   - yamlmagic==0.2.0
 
